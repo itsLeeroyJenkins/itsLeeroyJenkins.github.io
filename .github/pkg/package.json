@@ -1,0 +1,16 @@
+{
+  "name": "LowChat",
+  "version": "1.1.7",
+  "description": "",
+  "main": "/docs/_chat/index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "body-parser": "latest",
+    "dotenv": "^8.2.0",
+    "express": "latest",
+    "socket.io": "2.0.3"
+  }
+}
