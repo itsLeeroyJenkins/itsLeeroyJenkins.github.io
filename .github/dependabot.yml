@@ -9,4 +9,4 @@ updates:
     directory: "/docs/_chat" # Location of package manifests
     schedule:
       interval: "daily"
-      target-branch: "dependabot-pkg-updates"
+    target-branch: "dependabot-pkg-updates"
