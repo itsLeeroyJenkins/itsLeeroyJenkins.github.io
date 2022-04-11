@@ -2,14 +2,7 @@
 
 A powerful chatting application which supports commands, nicknames, rooms, and is simplistic in design.
 
-The hosted server can be found [here](https://chat.hyperjs.ml/)
-
-# How to get OP
-Note: For this to happen, you need to fork my reply into your own.
-
-On Replit, create a secret via the sidebar called "ADMIN" and set its value to the admin password you want
-
-Once you have the key setup and the repl restarted, you can use the `/key [password]` command to become an operator.
+The hosted server can be found [here](https://blanksausage.ga/chat/)
 
 # Commands
 ## Client:
