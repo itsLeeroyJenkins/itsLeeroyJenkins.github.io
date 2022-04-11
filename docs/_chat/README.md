@@ -2,7 +2,7 @@
 
 A powerful chatting application which supports commands, nicknames, rooms, and is simplistic in design.
 
-The hosted server can be found [here](https://blanksausage.ga/chat/)
+The hosted server can be found [here](https://chat.blanksausage.ga/)
 
 # Commands
 ## Client:
